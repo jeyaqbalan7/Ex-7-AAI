@@ -1,5 +1,5 @@
-<H3>Jeyabalan T</H3>
-<H3>212222240040</H3>
+<H3>Name Jeyabalan T</H3>
+<H3>Reg No 212222240040</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
